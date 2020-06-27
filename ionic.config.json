@@ -1,7 +1,7 @@
 {
-  "name": "provisional",
+  "name": "Weighter(provisional)",
   "integrations": {
     "capacitor": {}
   },
-  "type": "react"
+  "type": "angular"
 }
